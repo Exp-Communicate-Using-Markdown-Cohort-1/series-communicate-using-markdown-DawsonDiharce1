@@ -6,3 +6,7 @@ I made a pull request on the base: main and compare: start-markdown
 ```
 print("Hello World")
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
